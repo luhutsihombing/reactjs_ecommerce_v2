@@ -2,6 +2,6 @@
 
 > Documentation Development
 
-[Get Started](readme)
+[Get Started](README)
 [Page](https://FIFADA.com/)
 [API](https://FIFADA.com/api)

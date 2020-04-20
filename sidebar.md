@@ -1,4 +1,4 @@
-- [Introduction](readme.md)
+- [Introduction](README.md)
 - [Folder structure](markdown.md)
 - [Environment](environment.md)
 - [Build Start](build.md)
